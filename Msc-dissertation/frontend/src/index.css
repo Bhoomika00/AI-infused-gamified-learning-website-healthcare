@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*
+/* Optional: custom font or spacing 
+body {
+  @apply font-sans bg-white text-gray-800;
+}
+
+a {
+  @apply text-blue-600 hover:text-blue-800 font-medium;
+}
+*/
