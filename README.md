@@ -61,6 +61,6 @@ The goal is to reduce manual instructional design effort and enable scalable gam
 
 ---
 ## 📊 Results
-- Report:Final report draft.docx
+- Report: [Final report draft.docx](https://github.com/Bhoomika00/AI-infused-gamified-learning-website-healthcare/blob/d18694c24d8d5bf6a0b565a5a5ae95925223dbc0/Final%20report%20draft.docx)
 - Demo:https://drive.google.com/file/d/1tiJvGTG0I3TNXLwgy7i_FmOLOoubetfs/view?usp=sharing
 
